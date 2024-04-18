@@ -15,18 +15,36 @@ We want to see the following:
 - Show all characters that partake in a given episode
 - Showing all information of a character (Name, species, gender, last location, dimension, etc)
 
-## How?
-How do we want you to do it? We don't care, make it in React, Vue, Symfony, Zend, Slim, etc... 
-Make it in the framework(s) of your choice. Just make sure you do it in a language that applies to the position you're applying for. (PHP for Backend-dev, Javascript for frontend-dev)
+## Frontend Developer vacancy
 
-Make sure it is something you're proud of and shows us your knowledge and abilities!
+Make use of the following: 
+- JavaScript
+- Stimulus
+- Webpack
+- CSS framework like Tailwind
+
+Show us what you can do!!
+
+## Backend Developer vacancy
+
+Make use of the following: 
+- PHP8+
+- Symfony
+- (If you're up to it, any of the items for the Frontend Developer vacancy)
+
+Show us what you can do!!
+
+## Method of delivery
+
+Give us the url to a git repo (github, bitbucket, gitlab). We want to see the process as well as the end result.
+
 
 ## Bonus points
-Want to impress us a bit more? Here are some tips to do so
-- Dockerize it
+
+- Use Docker
 - Use awesome techniques
-- Make it (the code) look pretty
-- Integrate 1 or more extra API's in a creative way
-- Explain to us in detail how a plumbus is made (yes, this is real)
+- Use latest features available in the development language
+- UI: Responsive and mobile first
+- Integrate 1 or more additional API's in a creative way
 
 ![Show me what you got!](https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif)
