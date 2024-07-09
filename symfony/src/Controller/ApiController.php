@@ -20,7 +20,7 @@ class ApiController extends AbstractController
     #[Route('/test')]
     public function test(): Response
     {
-        dd($this->rickAndMortyService->getAllEpisodes());
+        dd($this->rickAndMortyService->getAllCharactersByDimension('unknown'));
 
         foreach ($characters->get()->results as $character) {
             echo $character->name;
